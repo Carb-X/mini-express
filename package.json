@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {},
+  "prettier": {
+    "singleQuote": true
+  }
 }
